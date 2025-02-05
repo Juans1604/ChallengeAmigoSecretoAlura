@@ -1,0 +1,2 @@
+<h1> Juego Amigo Secreto</h1>
+<p>En este proyecto esta enfocado en un Challenge de Alura LATAM el cual se implemente el juego del amigo secreto por medio de una lista y diferentes funciones el cual nos permiten añadir el nombre de los participantes y por medio de los comandos que nos ofrece visual estudio code podemos verificar y randomizar la forma en que se sortean los usuarios para que no sea predecible de cierta manera con una interfaz intuitiva en la cual el usuario se podra guiar por medio de las indicaciones que presenta la misma </p>
